@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="/short_form_videos/stid5e9fa84bc90fa/key.php",IV=0x32304E1C01ED3691838A08184FA74DFD
+#EXTINF:6.000000,
+/short_form_videos/stid5e9fa84bc90fa/ts/stid5e9fa84bc90fa-0.ts
+#EXTINF:6.000000,
+/short_form_videos/stid5e9fa84bc90fa/ts/stid5e9fa84bc90fa-1.ts
+#EXTINF:2.833333,
+/short_form_videos/stid5e9fa84bc90fa/ts/stid5e9fa84bc90fa-2.ts
+#EXT-X-ENDLIST
