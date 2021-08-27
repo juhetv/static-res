@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="/sw_videos/swid5efccc999da21/key.php",IV=0xC8C6CD974D4879F4F45F7647BB1527A9
+#EXTINF:6.000000,
+/sw_videos/swid5efccc999da21/ts/swid5efccc999da21-0.ts
+#EXTINF:6.000000,
+/sw_videos/swid5efccc999da21/ts/swid5efccc999da21-1.ts
+#EXTINF:6.000000,
+/sw_videos/swid5efccc999da21/ts/swid5efccc999da21-2.ts
+#EXTINF:2.041667,
+/sw_videos/swid5efccc999da21/ts/swid5efccc999da21-3.ts
+#EXT-X-ENDLIST
